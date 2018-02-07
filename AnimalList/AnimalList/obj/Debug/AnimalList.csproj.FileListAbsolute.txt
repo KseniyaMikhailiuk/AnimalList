@@ -1,0 +1,7 @@
+C:\Users\дэл\Desktop\qwerty\homework2AnimalList\AnimalList\AnimalList\bin\Debug\AnimalList.exe.config
+C:\Users\дэл\Desktop\qwerty\homework2AnimalList\AnimalList\AnimalList\bin\Debug\AnimalList.exe
+C:\Users\дэл\Desktop\qwerty\homework2AnimalList\AnimalList\AnimalList\bin\Debug\AnimalList.pdb
+C:\Users\дэл\Desktop\qwerty\homework2AnimalList\AnimalList\AnimalList\obj\Debug\AnimalList.csprojResolveAssemblyReference.cache
+C:\Users\дэл\Desktop\qwerty\homework2AnimalList\AnimalList\AnimalList\obj\Debug\AnimalList.csproj.CoreCompileInputs.cache
+C:\Users\дэл\Desktop\qwerty\homework2AnimalList\AnimalList\AnimalList\obj\Debug\AnimalList.exe
+C:\Users\дэл\Desktop\qwerty\homework2AnimalList\AnimalList\AnimalList\obj\Debug\AnimalList.pdb
